@@ -29,3 +29,8 @@ DHT22 SDA: GPIO22 | Bơm: GPIO17 | Quạt: GPIO18 | Phun sương: GPIO19
 
 ## Link Wokwi
 https://wokwi.com/projects/480203113703285761
+
+## 🌐 Truy cập website mô phỏng
+
+https://nghuy0501-telecmc.github.io/LAB3_RTOS_ESP32_NGUYEN_GIA_HUY_231432253/
+
